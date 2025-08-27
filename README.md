@@ -31,17 +31,18 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ---
 
-## 📂 Projects & Experiments  
-- 🔹 **Portfolio Website** – A simple showcase of my work & skills  
-- 🔹 **SQL Mini Projects** – Database queries & small management systems  
-- 🔹 **Python Utilities** – Scripts for automation and practice  
+## 🌟 Highlighted Projects  
 
-*(more on my GitHub soon...)*  
+### 🎵 [Spotify Clone](https://github.com/CodeExplainedRepo/spotify-clone)  
+A music streaming web app UI similar to Spotify, built with **HTML, CSS, JavaScript**.  
+
+### 🎮 [Simon Says Game](https://github.com/vedantbang/simon-says-game)  
+A fun memory-based game made using **HTML, CSS, JavaScript**.  
+
+### 📚 [Student Management System](https://github.com/hidaytrahman/Student-Management-System)  
+A **Python + MySQL** based project to manage student data.  
 
 ---
-
-
-
 
 ## 📊 GitHub Stats  
 
