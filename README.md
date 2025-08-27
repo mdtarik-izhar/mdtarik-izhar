@@ -14,6 +14,11 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ---
 
+## 🛠️ IDEs I Use  
+[![IDEs](https://skillicons.dev/icons?i=vscode,replit,pycharm,androidstudio)](https://github.com/mdtarik-izhar)
+
+---
+
 ## 🌱 Currently Exploring  
 - Frontend development basics  
 - Data structures & algorithms  
