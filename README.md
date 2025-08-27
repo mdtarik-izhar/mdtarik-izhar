@@ -39,6 +39,11 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ---
 
+##Top Languages Card
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtarik-izhar&layout=compact&theme=radical)
+
+---
+
 ## 🌐 Connect With Me  
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/md-tarik-izhar)  
