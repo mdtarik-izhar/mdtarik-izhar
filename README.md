@@ -14,6 +14,11 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ---
 
+## 🗄️ Databases  
+[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,postgres)](https://github.com/mdtarik-izhar)
+
+---
+
 ## 🛠️ IDEs I Use  
 [![IDEs](https://skillicons.dev/icons?i=vscode,replit,pycharm,sql-workbench,R)](https://github.com/mdtarik-izhar)
 
