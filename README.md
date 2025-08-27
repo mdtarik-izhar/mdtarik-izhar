@@ -33,7 +33,7 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ## 🌟 Highlighted Projects  
 
-### 🎵 [Spotify Clone](https://github.com/CodeExplainedRepo/spotify-clone)  
+### 🎵 [Spotify Clone](https://github.com/mdtarik-izhar/SPOTIFY-CLONE)  
 A music streaming web app UI similar to Spotify, built with **HTML, CSS, JavaScript**.  
 
 ### 🎮 [Simon Says Game](https://github.com/vedantbang/simon-says-game)  
