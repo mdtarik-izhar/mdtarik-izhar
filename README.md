@@ -30,6 +30,13 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 
 ---
 
+## 🏆 Certificates & Achievements  
+
+- 🎓 **Internship Offer** – Oasis Infobyte  
+- 🏅 **SQL & Python Certifications** (if you have certificates, add links here)  
+- 🌟 Participated in multiple coding challenges & hackathons  
+
+
 ## 📊 GitHub Stats  
 
 ![Tarik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtarik-izhar&show_icons=true&theme=tokyonight)  
