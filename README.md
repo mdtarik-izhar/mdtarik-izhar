@@ -15,7 +15,7 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 ---
 
 ## 🌱 Currently Exploring  
-- Backend development basics  
+- Frontend development basics  
 - Data structures & algorithms  
 - Real-world projects to sharpen problem-solving  
 
