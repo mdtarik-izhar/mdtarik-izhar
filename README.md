@@ -36,7 +36,7 @@ I'm **MD TARIK IZHAR**, a passionate developer who enjoys solving problems with 
 ### 🎵 [Spotify Clone](https://spotify-clone-kappa-rouge-91.vercel.app/)  
 A music streaming web app UI similar to Spotify, built with **HTML, CSS, JavaScript**.  
 
-### 🎮 [Simon Says Game](https://github.com/mdtarik-izhar/SIMON-GAME.git)  
+### 🎮 [Simon Says Game](simon-game-chi-two.vercel.app)  
 A fun memory-based game made using **HTML, CSS, JavaScript**.  
 
 ---
